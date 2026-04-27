@@ -34,10 +34,14 @@ export const Route = createRootRoute({
       { title: "BenefitBridge — Discover Government Benefits" },
       { name: "description", content: "AI-powered platform that helps Indian citizens discover government schemes, subsidies and benefits in their own language." },
       { name: "author", content: "BenefitBridge" },
-      { property: "og:title", content: "BenefitBridge" },
-      { property: "og:description", content: "Discover government benefits you deserve — in your language." },
+      { property: "og:title", content: "BenefitBridge — Discover Government Benefits" },
+      { property: "og:description", content: "AI-powered platform that helps Indian citizens discover government schemes, subsidies and benefits in their own language." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "BenefitBridge — Discover Government Benefits" },
+      { name: "twitter:description", content: "AI-powered platform that helps Indian citizens discover government schemes, subsidies and benefits in their own language." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bec9d993-ef93-49e4-be3a-6302a393f7b9/id-preview-fc5a34ef--66527bd9-fa01-4de8-892f-c751bd7f1137.lovable.app-1777287084470.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/bec9d993-ef93-49e4-be3a-6302a393f7b9/id-preview-fc5a34ef--66527bd9-fa01-4de8-892f-c751bd7f1137.lovable.app-1777287084470.png" },
     ],
     links: [
       {
